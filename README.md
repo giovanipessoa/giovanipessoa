@@ -5,11 +5,7 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
           
           
-## I’m currently working on
-- Integra - Communication, training and gamification. Owned by Logos Serviços (logos-ma.com.br).
-- AppDoctor - Management of chambers with online consultations, anmanesis, diagnoses with artificial intelligence and digital prescriptions. Project by Two Dev (2dev.solutions).
-
-## I’m looking to collaborate on
+## I'm looking for collaborate on
 - Large scale projects using .NET Core and CSharp with Clean Architecture.
 
 ## How to reach me
