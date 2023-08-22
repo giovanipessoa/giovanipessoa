@@ -5,8 +5,8 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
           
           
-## I'm look forward to collaborating on
-- Large scale projects using .NET Core (CSharp) with Clean Architecture
+## I would like to collaborate with
+- Large scale projects using .NET Core (C#), Clean Architecture and SOLID
 
 ## How to reach me
 
