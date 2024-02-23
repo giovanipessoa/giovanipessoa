@@ -3,12 +3,12 @@
 
 ## I'm learning and perfecting
 
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/pp-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
         
-## It's a pleasure to collaborate with
+## I'm looking for new projects to collaborate with
 
-- Large scale projects using .NET Core (C#), Clean Code, Clean Architecture and SOLID
-- Large scale projects using PHP, Clean Code, Clean Architecture and SOLID
+- C# (.NET), Clean Code, Clean Architecture and SOLID
+- PHP, Clean Code, Clean Architecture and SOLID
 
 ## How to reach me
 
