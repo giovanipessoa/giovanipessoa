@@ -1,33 +1,14 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Giovani Pessoa, but you can call me Giovane.
+# 👋 Hello! I'm Giovani.
+## Tech specialist focused on web apps, RPA, and business solutions.
 
-## I'm learning and perfecting
-
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-        
-## I'm looking for new projects to collaborate with
-
-- C# (.NET), Clean Code, Clean Architecture and SOLID
-- PHP, Clean Code, Clean Architecture and SOLID
-
-## How to reach me
+## Get in touch with me by email, linkedin or phone.
 
 <div>
-<a href = "mailto:giovanepessoa.gp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:giovanepessoa@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/giovanepessoa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovanipessoa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5511950658489?text=Ol%C3%A1%2C+Giovane+Pessoa." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
 ## My skills
 
-<div>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-</div>
+PHP · C# · JavaScript · TypeScript · Clean Code · Clean Architecture · MVC Architecture · React · Next.js · API · MySQL · SQLServer · MongoDB · Git · GitHub · Azure Repos · Amazon Web Services · Amazon EC2 · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · Azure Boards · Inteligência Artificial · Inteligência Artificial generativa · CI/CD · SCRUM · RPA · Liderança técnica · Comunicação · Habilidades analíticas · Metodologia ativa de aprendizagem · Inteligência emocional · Pensamento científico, crítico e criativo
