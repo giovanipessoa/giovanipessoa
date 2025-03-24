@@ -11,4 +11,4 @@
 
 ## My skills
 
-PHP · C# · JavaScript · TypeScript · Clean Code · Clean Architecture · MVC Architecture · React · Next.js · API · MySQL · SQLServer · MongoDB · Git · GitHub · Azure Repos · Amazon Web Services · Amazon EC2 · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · Azure Boards · Inteligência Artificial · Inteligência Artificial generativa · CI/CD · SCRUM · RPA · Liderança técnica · Comunicação · Habilidades analíticas · Metodologia ativa de aprendizagem · Inteligência emocional · Pensamento científico, crítico e criativo
+Liderança técnica · Comunicação · Habilidades analíticas · Metodologia ativa de aprendizagem · Inteligência emocional · Pensamento científico, crítico e criativo · JavaScript · TypeScript · PHP · C# · Clean Code · Clean Architecture · MVC architectural pattern · Node · React · Next.js · API · MongoDB · MySQL · SQLServer · Git · GitHub · Azure Repos · Amazon Web Services · Amazon EC2 · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · Azure Boards · AI · GenAI · CI/CD · SCRUM · RPA
