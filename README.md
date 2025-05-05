@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Giovani.
-## Tech specialist focused on web apps, RPA, and business solutions.
+## Tech specialist focused on internet systems and business solutions | Senior web developer
 
-## Get in touch with me by email, linkedin or phone.
+## Contact me through email, LinkedIn, or phone.
 
 <div>
 <a href = "mailto:giovanepessoa@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -11,4 +11,4 @@
 
 ## My skills
 
-Liderança técnica · Comunicação · Habilidades analíticas · Metodologia ativa de aprendizagem · Inteligência emocional · Pensamento científico, crítico e criativo · JavaScript · TypeScript · PHP · C# · Clean Code · Clean Architecture · MVC architectural pattern · Node · React · Next.js · API · MongoDB · MySQL · SQLServer · Git · GitHub · Azure Repos · Amazon Web Services · Amazon EC2 · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · Azure Boards · AI · GenAI · CI/CD · SCRUM · RPA
+Liderança técnica · Comunicação · Habilidades analíticas · Metodologia ativa de aprendizagem · Inteligência emocional · Pensamento científico, crítico e criativo · JavaScript · TypeScript · PHP · C# · Clean Code · Clean Architecture · MVC architectural pattern · Node · React · Next.js · API · MongoDB · MySQL · SQLServer · Git · GitHub · Azure Repos · Azure Boards · SCRUM · CI/CD · Amazon Web Services · Amazon EC2 · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · AI · GenAI · RPA
