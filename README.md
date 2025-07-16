@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Giovani.
-## Tech specialist focused on internet systems and business solutions | Senior web developer
+## Senior Web Developer (Full Stack) focused on Business Solutions
 
 ## Contact me through email, LinkedIn, or phone.
 
