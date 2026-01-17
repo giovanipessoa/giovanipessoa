@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Giovani.
-## Senior Web Developer (Full Stack) focused on Business Solutions
+## Software Engineer - Full Stack Web & Mbbile, focused on Business Solutions
 
 ## Contact me through email, LinkedIn, or phone.
 
