@@ -11,4 +11,4 @@
 
 ## My skills
 
-Liderança técnica · C# · PHP · JavaScript · TypeScript · MVC · Clean Code · Clean Architecture · DDD · TDD · Laravel · Node · React · XAMARIN · MAUI · Next.js · API RESTFul · RabbitMQ · Docker · MySQL · PostgreSQL · SQLServer · MongoDB · Git · CI/CD · GitHub · GitHub Actions · Azure Repos · SCRUM · Kanban · Azure Boards · Amazon EC2 · Amazon Lightsail · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · GCP · AI
+Liderança técnica · C# · PHP · JavaScript · TypeScript · MVC · Clean Code · Clean Architecture · DDD · TDD · XAMARIN · MAUI · Laravel · Node · React · Next.js · API RESTFul · RabbitMQ · Docker · MySQL · PostgreSQL · SQLServer · MongoDB · Git · GitHub · GitHub Actions · Azure Repos · CI/CD · SCRUM · Kanban · Azure Boards · Amazon EC2 · Amazon Lightsail · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · GCP · AI
