@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Giovani.
-## Software Engineer | C# | .NET | Full Stack (React, Next.js, Angular) | Mobile (.NET MAUI) | AWS
+## Software Engineer | C# | .NET | Full Stack (React, Next.js, Angular) | Mobile (.NET MAUI)
 
 ## Contact me through email, LinkedIn, or phone.
 
