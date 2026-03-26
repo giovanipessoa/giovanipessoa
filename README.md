@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Giovani.
-## Software Engineer - Full Stack Web & Mobile, focused on Business Solutions
+## Software Engineer | C# | .NET | Full Stack (React, Next.js, Angular) | Mobile (.NET MAUI) | AWS
 
 ## Contact me through email, LinkedIn, or phone.
 
@@ -11,4 +11,4 @@
 
 ## My skills
 
-Liderança técnica · C# · PHP · JavaScript · TypeScript · MVC · Clean Code · Clean Architecture · DDD · TDD · XAMARIN · MAUI · Laravel · Node · React · Next.js · API RESTFul · RabbitMQ · Docker · MySQL · PostgreSQL · SQLServer · MongoDB · Git · GitHub · GitHub Actions · Azure Repos · CI/CD · SCRUM · Kanban · Azure Boards · Amazon EC2 · Amazon Lightsail · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · GCP · AI
+Tech Leadership · Full Stack Development · Mobile Development · C# · PHP · JavaScript · TypeScript · DI · MVC · MVVM · Repository · Clean Code · Clean Architecture · Hexagonal Architecture · Event-Driven Architecture · DDD · TDD · XAMARIN · MAUI · Laravel · Node · React · Next.js · Angular · API RESTFul · RabbitMQ · Docker · MySQL · PostgreSQL · SQLServer · MongoDB · SQLite · Git · GitHub · GitHub Actions · Azure Repos · CI/CD · SCRUM · Kanban · Azure Boards · Amazon EC2 · Amazon CloudFront · Amazon Lightsail · Amazon EC2 Auto Scaling · Amazon Elastic Load Balancer · Amazon Route 53 · AWS Certificate Manager · AI · MCP
